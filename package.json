@@ -8,8 +8,6 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
-    "fs": "0.0.1-security",
-    "lodash": "^4.17.4",
     "react": "15.4.2",
     "react-native": "0.42.3",
     "react-native-document-picker": "^1.0.2"
